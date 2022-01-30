@@ -5,11 +5,12 @@ Branch 'rt-thread' has small changet to 'start.S' so that it can be uses with RT
 
 Usage:
 
-
+<code>
 [env:gd32vf103c_start]
 platform = gd32v
 platform_packages =
     framework-gd32vf103-sdk @ https://github.com/djix123/framework-gd32vf103-sdk.git
+</code>
 
 or
 
