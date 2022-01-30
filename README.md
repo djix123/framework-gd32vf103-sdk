@@ -1,6 +1,6 @@
 Updated version of PlatformIO package 'framework-gd32vf103-sdk' using GD32VF103_Firmware_Library_V1.1.3 as the base package.
 
-Branch 'rt-thread' has small changet to 'start.S' so that it can be uses with RT-Thread Nano
+Branch 'rt-thread' has a small change to 'start.S' so that it can be used with RT-Thread Nano
 (https://github.com/RT-Thread/rtthread-nano)
 
 Usage:
