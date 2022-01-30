@@ -14,7 +14,7 @@ platform_packages =
 
 or
 
-````
+```
 [env:gd32vf103c_start]
 platform = gd32v
 platform_packages =
